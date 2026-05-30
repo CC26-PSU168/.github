@@ -1,7 +1,7 @@
 # Budgetly
 
 **Platform Manajemen Keuangan Cerdas untuk Mahasiswa Indonesia**
-<img src="assets/logo.png" alt="Gambar 1" width="100%">
+<img src="assets/logo.png" alt="Logo" width="300">
 
 Partner kamu untuk keuangan yang lebih cerdas. Catat transaksi, atur anggaran, rencanakan tabungan, dan bagi tagihan bersama teman — semua dalam satu app yang dirancang untuk ritme hidup mahasiswa yang dinamis dan penuh kejutan.
 
